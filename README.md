@@ -16,7 +16,7 @@ This repository contains a set of HTML practice files created to build foundatio
 
 ## What You Learned from These Projects
 
-These tasks are great for developing the following HTML skills:
+These tasks have helped me develop the following HTML skills:
 
 - Writing valid HTML documents with `<!DOCTYPE html>` and proper `<html>`, `<head>`, and `<body>` structure.
 - Using heading tags `<h1>` through `<h6>` to organize content hierarchically.
