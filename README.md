@@ -14,7 +14,7 @@ This repository contains a set of HTML practice files created to build foundatio
 - `task8-comments.html` - Demonstrate the use of HTML comments (`<!-- ... -->`) in a document.
 - `task9-quotesDetail.html` - Add more quotes and citation details with `<blockquote>` and `<cite>`.
 
-## What You Learned from These Projects
+## What I Have Learned from These Projects
 
 These tasks have helped me develop the following HTML skills:
 
